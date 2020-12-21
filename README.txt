@@ -1,5 +1,5 @@
 Team 7 _DATE_201208
-20182902 이윤정, 20185536 박종혁, 20172990 강혜연
+20****** 이**, 2018**** 박종혁, 20****** 강**
 
 
 DEVELOPMENT ENVIRONMENT: Window Visual Studio
